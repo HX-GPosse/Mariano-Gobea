@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "mariano-gobea",
+  "private_key_id": "7ea800ca2f1388b4e510952bb9d3a74ca0a9766f",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQC2LjzvtYENak83\niAR3QeycEHPbe9eHYw9L5vGaqzpqYdtVzAcqSE40ImLoae5NJD87A6vMC0pdzLCT\nVAFONRjD8lKJIoUpbqhKrvL18d92s0dbsrOnoLhn4Dryb5hX4WlSqgDh1iD6fvOI\nioytg5xvXeF44D+GohLHG6paBLP+kkuQcspW6rdZ7VqMYJENqPkDzBH8Z/TvldCr\nb4YJkDM1YEJhtrStsyLwZxp67WBRrIyjAstJRaKqOjWVQs4VY+gKrXr7giicGRnL\nwLuZpWG8pGUNZJdncG6vf0QKXfabeTJw2Dr3KdXpdGT4PeUp4LyTC/U1hQJVOqsa\n6qbHLQTxAgMBAAECggEAAa3QCkm6ZemHxjfaHTPqy6GhL2qpcvcsZQIbgZObsuWf\nWN/CUrOG0K7joT4APIB3vO83heaQXd7S41OqqbWvc1FdhhCmBtEdDcCg5Ow3RAVl\nNgQKNPfjkkqKT1kwMozqw2enuMJtmhTzBv1t9uEck1FbhvOQMSDfzqaBKGNVfF1G\nuDNPTk4CuU8CvP/pqJJrNdSYD84vuFji0iZFVZCAX2Tj7M5E0DlwL4vUvgUVwGD6\nMzALDfBM8N0q8sBudEz2DLeWfSq59wr9GP2qHhk5TDUbzCTcJX86VTQtkMTYBqTp\nwFUg7SfKiGY6xjMRTMvMRvQjVYEog9Ch4FPxcEckWwKBgQD+OtM+MyuAv6dX0jy7\nODNcFXi6RJ51tvFg3swNNyaZOd4uAYK/DArntvM/UMtETaG+gsb0N+h4YAXlqhiQ\nokxqU6szHMjTbMZimlyLB03rAjjBCFlMNdr8O7Cpx5khIERTzRC03PMMSvpkG5eW\nfS1JXaJAgM9vtj/ePLk8DzjdZwKBgQC3cvt5VugufBaY/KEAXfRsBvPrTQ8fsNKg\n23FCj1cswDjQVbJ3/DVLjKV9VhVNZvxcWmshcjqb/lnpJQRh86hM+X7mkul0dZ29\nsV7aewa5bZHnOhm3D/jXpCM0TKBoF76Qg95ZbCE1ftncsxW15M3u9Cbbu/cU04Gv\ncVDHbOW75wKBgQCoIqF4noDj6lyzQTC3JSkaenzYu+8MrQwgY9kR2GqnpdTiGk+t\nKDrCGoXvVvDH4IvbIkSQWbVefysHRCJw7VWacHFmIWBUK7lclvgjXpZSmaqNR4c/\nVtLYRGXHM2F7vgpSXenxo7r+Y0wMDw+HEIx12/4lqMsH98FvqjtblDmoewKBgDlm\nVt0enkN9PCzeTxooS8RJYKTtVaAa2azPPN8Qrrwn4R7+0XrNhXeAKH/RIZU4dhoH\niKHMdh49NbDHjll/vddn8Zb/vOBdtN+X0hAWkoIOkKqC+WzYKIqApytEFqS7WTsq\np7XfKXztlgmCV3a0guMTrdzvMV5o15knoZjkr/VdAoGAPeWCyWqthKZVnZrHeCB3\niWeuyZ6J/kIeD0derVvTMk+cASZhzt3UxfjpniDHBeAUeiTP2rdlAKNuPqXXzcOi\ntiodlokbpEjnhjW8YhtBY+nOFCJEMVjzgDya83+CDo/ScisV0wuMlwh6Hlig12SG\n3q6+vbo/hnDr8wMGt135NwU=\n-----END PRIVATE KEY-----\n",
+  "client_email": "gonzalo-posse@mariano-gobea.iam.gserviceaccount.com",
+  "client_id": "114666587452339482878",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/gonzalo-posse%40mariano-gobea.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
